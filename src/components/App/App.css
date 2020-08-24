@@ -1,0 +1,33 @@
+body {
+    background: rgb(152, 150, 138);
+}
+.navigation {
+    text-align: center;
+    padding: 4%;
+}
+.nav-link {
+    padding: 10%;
+    text-decoration: none;
+}
+.about {
+    text-align: center;
+    padding-left: 27%;
+    padding-right: 27%;
+}
+.info {
+    padding-top: 2rem;
+    text-align: left;
+    text-indent: 1rem;
+}
+
+.connect {
+    text-align: left;
+}
+.connect a {
+    text-decoration: none;
+    color: chartreuse;
+}
+
+.connect a:hover {
+    color: purple
+}
