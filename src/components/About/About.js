@@ -7,7 +7,7 @@ class About extends Component {
         return (
             <div className="about">
             <div className="connect">
-                <a href="https://github.com/rlh74/hello-lissajous" target="_blank" rel="noopener noreferrer">Project Repository</a> <br/>
+                <a href="https://github.com/rlh74/rlh74.github.io" target="_blank" rel="noopener noreferrer">Project Repository</a> <br/>
                 <a href="https://github.com/rlh74" target="_blank" rel="noopener noreferrer">Github profile</a><br />
                 <a href="https://www.linkedin.com/in/rosshutchens/" target="_blank" rel="noopener noreferrer">LinkedIn</a><br />
             </div>
