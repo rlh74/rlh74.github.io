@@ -32,7 +32,6 @@ class Lissajous extends Component {
             sketch.createCanvas(600, 600);
             sketch.smooth();
             sketch.strokeCap(sketch.ROUND);
-            sketch.frameRate(5);
             maxDist = sketch.sqrt(sketch.sq(sketch.width/2-50) + sketch.sq(sketch.height/2-50));
         }
         
